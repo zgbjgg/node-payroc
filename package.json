@@ -1,0 +1,36 @@
+{
+  "name": "node-payroc",
+  "version": "0.1.0",
+  "main": "./index.js",
+  "authors": [
+    "zgbjgg <zgbjgg@gmail.com>"
+  ],
+  "description": "Node JS wrapper for Payroc three step",
+  "keywords": [
+    "payroc",
+    "payment"
+  ],
+  "directories": {
+    "lib": "./lib"
+  }
+  "license": "MIT",
+  "standard": {
+    "ignore": [
+      "/dist/"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "request": "^2.75.0",
+    "js2xmlparser": "^2.0.2",
+    "xml2js": "^0.4.17"
+  },
+  "scripts": {},
+  "readmeFilename": "README.md",
+  "man": "README.md",
+  "files": [
+    "README.md",
+    "index.js",
+    "lib"
+  ] 
+}
